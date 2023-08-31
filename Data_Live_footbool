@@ -62,7 +62,7 @@
 
 
 
- 	"data_server_betting": "https://kabol12345.github.io/situs777/",
+ 	"data_server_betting": "https://kabol12345.github.io/AllSportAPI/",
  	"data_server_sccore": "https://kabol12345.github.io/situs777/",
  	"data_server_live": "https://kabol12345.github.io/Situs.win.99/",
 
@@ -74,9 +74,21 @@
   "Notification": [
     {
       "id": 1,
-      "judul": "Mobile Legends: Bang Bang",
-      "image": "https://play-lh.googleusercontent.com/Qc3jxMEGWOTCeiR-PlqaPErtTUyqTBEI92pq-pKrFmLH5iXQa1EQ-8vbLWZLxe5N-tc=w1052-h592-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.mobile.legends"
+      "judul": "LiveScore: Live Sports Scores",
+      "image": "https://play-lh.googleusercontent.com/ZaslmjEgpyxlF9mAyzMjngN9DXzVJ2p_1lWlb9WmvcYrwEW5ETS1d6jIDaFOcDEN5AxV=w480-h960-rw",
+      "link": "https://play.google.com/store/search?q=livescore&c=apps&hl=id-ID"
+    },
+  {
+      "id": 2,
+      "judul": "Pinjol ilegal cepat cair guide",
+      "image": "https://play-lh.googleusercontent.com/i-xCUTFGK6t9IedieA2lDJ3hX5LZ8MGOtRjW1J-vSwinEwErpDcy82QccPV7NrzjkmUy=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.pinjollegalllll.toppserver&hl=id-ID"
+    },
+  {
+      "id": 3,
+      "judul": "Japan Browser",
+      "image": "https://play-lh.googleusercontent.com/CYoUUSVo9GG7BkSuGVedSPD6d3D52rasMgqx6r1FDaDRN5C2rJUETp8Gb93Q-DUdQw=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.japan.browserhot&hl=id-ID"
     }
   ]
 }
