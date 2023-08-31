@@ -5,9 +5,6 @@
 	"banner": "ca-app-pub-3940256099942544/6300978111",
 	"inter": "ca-app-pub-3940256099942544/1033173712",
 
-	"Admob": "1",
-	"BannerAdmob": "1",
-	"NativeAdmob": "0",
 
 	"Bidding_Admob_Inter": "1",
 	"Bidding_Admob_Banner": "1",
