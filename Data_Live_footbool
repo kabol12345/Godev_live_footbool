@@ -9,8 +9,8 @@
 	"BannerAdmob": "1",
 	"NativeAdmob": "0",
 
-	"Bidding_Admob_Inter": "0",
-	"Bidding_Admob_Banner": "0",
+	"Bidding_Admob_Inter": "1",
+	"Bidding_Admob_Banner": "1",
 	"Bidding_Admob_Native": "0",
 
 
