@@ -32,7 +32,7 @@
 	"Applovin": "0",
 	"BannerApplovin": "0",
 
-	"Bidding_Applovin_Inter": "1",
+	"Bidding_Applovin_Inter": "0",
 	"Bidding_Applovin_Banner": "1",
 	"Bidding_Applovin_Mrc": "0",
 	"Bidding_Applovin_Native": "1",
