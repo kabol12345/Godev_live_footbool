@@ -2,7 +2,7 @@
   "Ads": {
   "appid": "ca-app-pub-3940256099942544~3347511713",
 
-        "inter": "ca-app-pub-3940256099942544/1033173712",
+        "inter": "ca-app-pub-3940256099942544/1033173712xx",
         "OpenAds": "ca-app-pub-3940256099942544/3419835294",
 	"native": "ca-app-pub-3940256099942544/2247696110",
 	"banner": "ca-app-pub-3940256099942544/6300978111",
@@ -33,9 +33,9 @@
 	"BannerApplovin": "0",
 
 	"Bidding_Applovin_Inter": "0",
-	"Bidding_Applovin_Banner": "1",
+	"Bidding_Applovin_Banner": "0",
 	"Bidding_Applovin_Mrc": "0",
-	"Bidding_Applovin_Native": "1",
+	"Bidding_Applovin_Native": "0",
 	"Bidding_Applovin_VideoReword": "0",
 
 
@@ -44,12 +44,12 @@
 
 
 	"idappdeal": "4454b5e962c2c6e9f027ece3bbc19a2a24483de7a97b07a1",
-        "appdeal": "1",
+        "appdeal": "0",
 
         
         "Backup_Fan_inter": "0",
         "Backup_Admob_Inter": "0",
-        "Backup_Appodeal": "0",
+        "Backup_Appodeal": "1",
         "Backup_ApplovinMax_Inter": "0",
         "Backup_Startapp_Inter": "0",
         "Backup_Applovin_Inter": "0",
