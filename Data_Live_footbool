@@ -2,10 +2,10 @@
   "Ads": {
   "appid": "ca-app-pub-3940256099942544~3347511713",
 
-        "inter": "ca-app-pub-3940256099942544/1033173712xx",
+        "inter": "ca-app-pub-3940256099942544/1033173712",
         "OpenAds": "ca-app-pub-3940256099942544/3419835294",
-	"native": "ca-app-pub-3940256099942544/2247696110xx",
-	"banner": "ca-app-pub-3940256099942544/6300978111xx",
+	"native": "ca-app-pub-3940256099942544/2247696110",
+	"banner": "ca-app-pub-3940256099942544/6300978111",
 	
 
 
@@ -54,9 +54,9 @@
         "Backup_Startapp_Inter": "0",
         "Backup_Applovin_Inter": "0",
 
-        "Backup_Admob_Banner": "0",
+        "Backup_Admob_Banner": "1",
         "Backup_Fan_Banner": "0",
-        "Backup_Applovin_Banner": "1",
+        "Backup_Applovin_Banner": "0",
 
         "Backup_Fan_Native": "0",
         "Backup_Applovin_native": "1",
