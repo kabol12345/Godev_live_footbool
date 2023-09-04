@@ -19,9 +19,9 @@
 	"NativeFan": "IMG_16_9_APP_INSTALL#199850962620816_199853335953912",
 	"BannerFan": "IMG_16_9_APP_INSTALL#199850962620816_199853049287274",
 
-	"Fan": "0",
+	"Fan": "1",
 	"BannerFanAds": "1",
-	"NativeFanAds": "0",
+	"NativeFanAds": "1",
 
 	"InterApplovinId": "a832104eb721bbe3",
 	"BannerApplovinId": "b6a563740264bbca",
@@ -50,7 +50,7 @@
         "Backup_Fan_inter": "0",
         "Backup_Admob_Inter": "0",
         "Backup_Appodeal": "0",
-        "Backup_ApplovinMax_Inter": "0",
+        "Backup_ApplovinMax_Inter": "1",
         "Backup_Startapp_Inter": "0",
         "Backup_Applovin_Inter": "0",
 
@@ -59,7 +59,7 @@
         "Backup_Applovin_Banner": "1",
 
         "Backup_Fan_Native": "0",
-        "Backup_Applovin_native": "0",
+        "Backup_Applovin_native": "1",
 
 
 	"button": "0",
