@@ -54,9 +54,9 @@
         "Backup_Startapp_Inter": "0",
         "Backup_Applovin_Inter": "0",
 
-        "Backup_Admob_Banner": "1",
+        "Backup_Admob_Banner": "0",
         "Backup_Fan_Banner": "0",
-        "Backup_Applovin_Banner": "0",
+        "Backup_Applovin_Banner": "1",
 
         "Backup_Fan_Native": "0",
         "Backup_Applovin_native": "1",
