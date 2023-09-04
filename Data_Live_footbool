@@ -44,12 +44,12 @@
 
 
 	"idappdeal": "f82101653f0cc1f4b8140cfbd2f47f6f306c4d5e865a6d66",
-        "appdeal": "0",
+        "appdeal": "1",
 
         
         "Backup_Fan_inter": "0",
         "Backup_Admob_Inter": "0",
-        "Backup_Appodeal": "1",
+        "Backup_Appodeal": "0",
         "Backup_ApplovinMax_Inter": "0",
         "Backup_Startapp_Inter": "0",
         "Backup_Applovin_Inter": "0",
