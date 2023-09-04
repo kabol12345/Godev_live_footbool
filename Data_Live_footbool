@@ -4,15 +4,15 @@
 
         "inter": "ca-app-pub-3940256099942544/1033173712xx",
         "OpenAds": "ca-app-pub-3940256099942544/3419835294",
-	"native": "ca-app-pub-3940256099942544/2247696110",
-	"banner": "ca-app-pub-3940256099942544/6300978111",
+	"native": "ca-app-pub-3940256099942544/2247696110xx",
+	"banner": "ca-app-pub-3940256099942544/6300978111xx",
 	
 
 
         "Bidding_Open_Ads": "0",
         "Bidding_Admob_Inter": "0",
-	"Bidding_Admob_Banner": "0",
-	"Bidding_Admob_Native": "0",
+	"Bidding_Admob_Banner": "1",
+	"Bidding_Admob_Native": "1",
 
 
 	"interFan": "IMG_16_9_APP_INSTALL#199850962620816_199853092620603",
@@ -20,8 +20,8 @@
 	"BannerFan": "IMG_16_9_APP_INSTALL#199850962620816_199853049287274",
 
 	"Fan": "0",
-	"BannerFanAds": "1",
-	"NativeFanAds": "1",
+	"BannerFanAds": "0",
+	"NativeFanAds": "0",
 
 	"InterApplovinId": "a832104eb721bbe3",
 	"BannerApplovinId": "b6a563740264bbca",
