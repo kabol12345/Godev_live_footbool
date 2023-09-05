@@ -11,8 +11,8 @@
 
 
         "Bidding_Open_Ads": "1",
-        "Bidding_Admob_Inter": "2",
-	"Bidding_Admob_Banner": "3",
+        "Bidding_Admob_Inter": "1",
+	"Bidding_Admob_Banner": "1",
 	"Bidding_Admob_Native": "0",
 
 
