@@ -10,9 +10,9 @@
 	
 
 
-        "Bidding_Open_Ads": "1",
-        "Bidding_Admob_Inter": "1",
-	"Bidding_Admob_Banner": "1",
+        "Bidding_Open_Ads": "0",
+        "Bidding_Admob_Inter": "0",
+	"Bidding_Admob_Banner": "0",
 	"Bidding_Admob_Native": "0",
 
 
@@ -57,14 +57,14 @@
 
         "Backup_Admob_Banner": "0",
         "Backup_Fan_Banner": "0",
-        "Backup_Applovin_Banner": "1",
+        "Backup_Applovin_Banner": "0",
 
         "Backup_Fan_Native": "0",
-        "Backup_Applovin_native": "1",
+        "Backup_Applovin_native": "0",
 
 
 	"button": "0",
-	"splase": "0",
+	"splase": "1",
 
 	"adsbrutal": "0",
 	"adsbiasa": "1",
@@ -87,7 +87,7 @@
     }
 
 ,
-  "Notification": [
+  "Notificationx": [
     {
       "id": 1,
       "judul": "LiveScore: Live Sports Scores",
