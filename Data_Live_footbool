@@ -10,8 +10,8 @@
 	
 
 
-        "Bidding_Open_Ads": "0",
-        "Bidding_Admob_Inter": "0",
+        "Bidding_Open_Ads": "1",
+        "Bidding_Admob_Inter": "1",
 	"Bidding_Admob_Banner": "0",
 	"Bidding_Admob_Native": "0",
 
@@ -64,7 +64,7 @@
 
 
 	"button": "0",
-	"splase": "1",
+	"splase": "0",
 
 	"adsbrutal": "0",
 	"adsbiasa": "1",
